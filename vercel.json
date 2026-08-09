@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/embed",
+      "destination": "https://tiktok-embed-883663.onhercules.app/"
+    }
+  ]
+}
